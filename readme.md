@@ -1,4 +1,4 @@
-# Hello Git
+# Welcome to Git
 
-- This is `dev-jsm`
+- This is coming from `dev-bj`
 - I'm adding this from `feature-branch`
